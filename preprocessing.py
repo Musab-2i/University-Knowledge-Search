@@ -1,4 +1,4 @@
-
+#عمار ابوسنينة   23009021
 import re
 
 USE_STOPWORDS = True      
